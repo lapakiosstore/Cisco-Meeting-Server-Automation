@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/Abhijith-R/Cisco-Meeting-Server-Automation)
 # Cisco Meeting Server Automation - A large University in Australia
 A University in Australia wanted to automate the creation of co-spaces for lecturers and students. This repetitive task would take more time when done manually so this proof of value intends to automate the task of creating co-spaces thereby reducing the time spent on it and also reduce human errors.
 
